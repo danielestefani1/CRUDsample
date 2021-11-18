@@ -1,0 +1,9 @@
+c:\users\d\documents\visual studio 2015\Projects\pastic\pastic\bin\Debug\pastic.exe.config
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.csprojResolveAssemblyReference.cache
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.Form1.resources
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.Properties.Resources.resources
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.csproj.GenerateResource.Cache
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\bin\Debug\pastic.exe
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\bin\Debug\pastic.pdb
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.exe
+C:\Users\d\Documents\Visual Studio 2015\Projects\pastic\pastic\obj\Debug\pastic.pdb
